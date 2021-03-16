@@ -1,0 +1,13 @@
+org.openqa.selenium.chrome.ChromeDriverInfo
+
+org.openqa.selenium.edge.EdgeDriverInfo
+
+org.openqa.selenium.firefox.GeckoDriverInfo
+org.openqa.selenium.firefox.XpiDriverInfo
+
+org.openqa.selenium.ie.InternetExplorerDriverInfo
+
+org.openqa.selenium.opera.OperaDriverInfo
+
+org.openqa.selenium.safari.SafariDriverInfo
+org.openqa.selenium.safari.SafariTechPreviewDriverInfo

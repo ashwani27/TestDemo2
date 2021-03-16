@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <listeners>
+    <listener class-name="com.nagarro.selenium.Ashwani_4141_SeleniumAssignment2.utilities.TestNGListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.nagarro.selenium.Ashwani_4141_SeleniumAssignment2.testcases.SearchPageTest"/>
+      <class name="com.nagarro.selenium.Ashwani_4141_SeleniumAssignment2.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
